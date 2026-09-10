@@ -1,19 +1,17 @@
-<p><strong>APP UI &amp; INTERACTION</strong></p>
+<sub>M620 / DESIGN ENGINEERING</sub>
 
-# App interfaces,<br>carefully recreated.
+# Interfaces, down to the detail.
 
-I build high-fidelity, interactive app prototypes with editable source code.
+I build app interfaces with a focus on visual precision, thoughtful motion, and interactions that feel right.
 
-My focus is on the details that make an interface feel right: typography, spacing, motion, and how each screen responds.
-
-### My focus
-
-- **Detailed interfaces** — selected app screens with a consistent visual finish.
-- **Working interactions** — navigation, editing, transitions, and meaningful state changes.
-- **Editable source code** — the prototype itself, with setup instructions and a clear scope.
-
-Public case studies are being prepared.
+**High-fidelity prototypes. Real interactions. Editable source.**
 
 ---
 
-<sub>Independent UI prototype work. App names and trademarks belong to their respective owners.</sub>
+### A closer look
+
+Typography and spacing. Surfaces and hierarchy. Transitions and the states in between.
+
+Each prototype brings these details together in an interface you can explore and adapt.
+
+<sub>Selected app studies are being prepared for release.</sub>
