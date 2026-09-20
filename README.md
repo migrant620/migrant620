@@ -29,7 +29,7 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="https://luma-ui.edgeone.cool"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/luma.gif?v=2" width="220" alt="Luma UI walkthrough"></a>
+  <a href="https://luma-ui.edgeone.cool"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/luma.gif?v=3" width="220" alt="Luma UI walkthrough"></a>
   <h4>Luma</h4>
   Event discovery and hosting — a frosted pastel welcome wall, a dated feed, a dark hero detail, and a floating Create Event capsule.<br><br>
   <a href="https://luma-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/luma-ui">Source</a>
