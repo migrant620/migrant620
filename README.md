@@ -6,7 +6,7 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
 
 **High-fidelity prototypes. Real interactions. Editable source.**
 
-<a href="https://github.com/migrant620/awesome-app-design-md"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/hero.png" alt="Recreated Tiimo and Suno screens running as interactive prototypes"></a>
+<a href="https://github.com/migrant620/awesome-app-design-md"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/hero.png" alt="Recreated Airbnb, Tiimo, Suno and Luma screens running as interactive prototypes"></a>
 
 ---
 
@@ -33,6 +33,12 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   <h4>Luma</h4>
   Event discovery and hosting — a frosted pastel welcome wall, a dated feed, a dark hero detail, and a floating Create Event capsule.<br><br>
   <a href="https://luma-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/luma-ui">Source</a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://airbnb-ui.edgeone.cool"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/airbnb.gif" width="220" alt="Airbnb UI walkthrough"></a>
+  <h4>Airbnb</h4>
+  Photo-led Explore, a three-clause search (Where · When · Who), results, and a listing detail with a swipeable photo viewer.<br><br>
+  <a href="https://airbnb-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/airbnb-ui">Source</a>
 </td>
 </tr>
 </table>
