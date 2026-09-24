@@ -41,6 +41,14 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   <a href="https://airbnb-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/airbnb-ui">Source</a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://threads-ui.edgeone.cool"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/threads.gif" width="220" alt="Threads UI walkthrough"></a>
+  <h4>Threads</h4>
+  A calm, text-first social feed — a near-white canvas, one black ink and a hairline between posts; the Post pill turns itself on as you type.<br><br>
+  <a href="https://threads-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/threads-ui">Source</a>
+</td>
+</tr>
 </table>
 
 <p align="center">
