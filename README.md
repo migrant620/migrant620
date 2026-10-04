@@ -48,6 +48,12 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   A calm, text-first social feed — a near-white canvas, one black ink and a hairline between posts; the Post pill turns itself on as you type.<br><br>
   <a href="https://threads-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/threads-ui">Source</a>
 </td>
+<td width="50%" align="center" valign="top">
+  <a href="https://structured-ui.edgeone.cool"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/structured.gif?v=1" width="220" alt="Structured UI walkthrough"></a>
+  <h4>Structured</h4>
+  The whole day on one vertical spine — a disc per task, time labels down the gutter, and a single coral accent carrying every plan and action.<br><br>
+  <a href="https://structured-ui.edgeone.cool">▶ Live demo</a> · <a href="https://github.com/migrant620/structured-ui">Source</a>
+</td>
 </tr>
 </table>
 
