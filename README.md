@@ -18,13 +18,13 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   <a href="https://migrant620.github.io/tiimo/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/tiimo.gif" width="220" alt="Tiimo UI walkthrough"></a>
   <h4>Tiimo</h4>
   Visual day planner — time-of-day tints, serif moments and a focus arc you can watch fill.<br><br>
-  <a href="https://migrant620.github.io/tiimo/">▶ Live demo</a> · <a href="https://github.com/migrant620/tiimo-ui">Source</a>
+  <a href="https://migrant620.github.io/tiimo/">▶ Live demo</a> · <a href="https://github.com/migrant620/tiimo-clone">Source</a>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://migrant620.github.io/suno/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/suno.gif" width="220" alt="Suno UI walkthrough"></a>
   <h4>Suno</h4>
   AI music creation — warm paper surfaces, a single prompt with optional add-ons, and a player painted from the cover.<br><br>
-  <a href="https://migrant620.github.io/suno/">▶ Live demo</a> · <a href="https://github.com/migrant620/suno-ui">Source</a>
+  <a href="https://migrant620.github.io/suno/">▶ Live demo</a> · <a href="https://github.com/migrant620/suno-clone">Source</a>
 </td>
 </tr>
 <tr>
@@ -32,13 +32,13 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   <a href="https://migrant620.github.io/luma/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/luma.gif?v=3" width="220" alt="Luma UI walkthrough"></a>
   <h4>Luma</h4>
   Event discovery and hosting — a frosted pastel welcome wall, a dated feed, a dark hero detail, and a floating Create Event capsule.<br><br>
-  <a href="https://migrant620.github.io/luma/">▶ Live demo</a> · <a href="https://github.com/migrant620/luma-ui">Source</a>
+  <a href="https://migrant620.github.io/luma/">▶ Live demo</a> · <a href="https://github.com/migrant620/luma-clone">Source</a>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://migrant620.github.io/airbnb/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/airbnb.gif" width="220" alt="Airbnb UI walkthrough"></a>
   <h4>Airbnb</h4>
   Photo-led Explore, a three-clause search (Where · When · Who), results, and a listing detail with a swipeable photo viewer.<br><br>
-  <a href="https://migrant620.github.io/airbnb/">▶ Live demo</a> · <a href="https://github.com/migrant620/airbnb-ui">Source</a>
+  <a href="https://migrant620.github.io/airbnb/">▶ Live demo</a> · <a href="https://github.com/migrant620/airbnb-clone">Source</a>
 </td>
 </tr>
 <tr>
@@ -46,13 +46,13 @@ I build app interfaces with a focus on visual precision, thoughtful motion, and 
   <a href="https://migrant620.github.io/threads/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/threads.gif" width="220" alt="Threads UI walkthrough"></a>
   <h4>Threads</h4>
   A calm, text-first social feed — a near-white canvas, one black ink and a hairline between posts; the Post pill turns itself on as you type.<br><br>
-  <a href="https://migrant620.github.io/threads/">▶ Live demo</a> · <a href="https://github.com/migrant620/threads-ui">Source</a>
+  <a href="https://migrant620.github.io/threads/">▶ Live demo</a> · <a href="https://github.com/migrant620/threads-clone">Source</a>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://migrant620.github.io/structured/"><img src="https://raw.githubusercontent.com/migrant620/awesome-app-design-md/main/assets/structured.gif?v=1" width="220" alt="Structured UI walkthrough"></a>
   <h4>Structured</h4>
   The whole day on one vertical spine — a disc per task, time labels down the gutter, and a single coral accent carrying every plan and action.<br><br>
-  <a href="https://migrant620.github.io/structured/">▶ Live demo</a> · <a href="https://github.com/migrant620/structured-ui">Source</a>
+  <a href="https://migrant620.github.io/structured/">▶ Live demo</a> · <a href="https://github.com/migrant620/structured-clone">Source</a>
 </td>
 </tr>
 </table>
